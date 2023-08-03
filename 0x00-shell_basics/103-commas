@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -z 's/\n/, /g; s/,$/\n/'
+ls -aF1
